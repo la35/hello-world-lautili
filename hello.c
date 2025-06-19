@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  // tu solucion
+  printf("Hola Mundo");
   return 0;
 }
